@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomProject</string>
+    <string name="sign_in">Sign In</string>
+    <string name="log_inButton">LOG IN</string>
+</resources>

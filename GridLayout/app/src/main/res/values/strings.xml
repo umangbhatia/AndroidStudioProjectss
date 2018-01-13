@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GridLayout</string>
+    <string name="TextField">Hello</string>
+    <string name="click_meButton">Click Me!</string>
+</resources>
